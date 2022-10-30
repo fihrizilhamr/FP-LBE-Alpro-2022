@@ -11,19 +11,19 @@
 
 Catatan: Program tidak harus dapat dijalankan, cukup ditunjukkan implementasi konsepnya saja.
 ---
-** *Inheritance* **
+*Inheritance*
 ---
 ![This is an image](https://i.ibb.co/4Kc2BZj/inheritance-1.png)
 ![This is an image](https://i.ibb.co/1sFVM0Z/inheritance-2.png)
 
-** Enkapsulasi **
+Enkapsulasi
 ---
 ![This is an image](https://i.ibb.co/gg4TJq9/encapsulation.png)
 
-** Abstraksi **
+Abstraksi
 ---
 ![This is an image](https://i.ibb.co/D12F2Cz/abstract.png)
 
-** *Polymorphism* **
+*Polymorphism*
 ---
 ![This is an image](https://i.ibb.co/9h5DhMg/poly.png)
