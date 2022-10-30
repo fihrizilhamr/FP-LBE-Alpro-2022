@@ -1,5 +1,3 @@
-package Telephone;
-
 class android extends Telephone {
 	public android() {
 		super.type = "aaandroid!";
