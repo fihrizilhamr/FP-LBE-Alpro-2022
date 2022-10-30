@@ -1,5 +1,3 @@
-package Telephone;
-
 public class main {
 	public static void main(String[] args) {
 		Telephone daffa = new iphone();
