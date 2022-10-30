@@ -1,5 +1,3 @@
-package Telephone;
-
 class iphone extends Telephone {
 	public iphone() {
 		super.type = "iphoneee!";
