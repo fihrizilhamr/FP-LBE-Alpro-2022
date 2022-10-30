@@ -1,5 +1,3 @@
-package Telephone;
-
 abstract class Telephone{
 	private float weight;
     private String type;
