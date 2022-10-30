@@ -10,7 +10,7 @@
 - Gunakan nama *class* yang sudah ada sebagai tema dari project ini.
 
 Catatan: Program tidak harus dapat dijalankan, cukup ditunjukkan implementasi konsepnya saja.
----
+
 *Inheritance*
 ---
 ![This is an image](https://i.ibb.co/4Kc2BZj/inheritance-1.png)
